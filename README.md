@@ -1,6 +1,6 @@
 ### Hi there! I'm **Kalashapeer S** 👋
 
-![Profile Banner](https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif)
+![Anime Developer](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 🚀 **Aspiring Software Developer | B.Tech in Computer Science Engineering (2026) | Web & Software Enthusiast**
 
@@ -68,6 +68,7 @@
     <a href="https://kalashapeer.github.io/Football-Junction/">
     <img src="https://img.shields.io/badge/E--Commerce-%234285F4.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="E-Commerce"/>
   </a>
+  
 </p>
 
 ---
@@ -77,8 +78,11 @@
   <a href="mailto:kalashapeer1@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="(https://www.linkedin.com/in/kalasha-peer-5ba84a411/)">
+  <a href="https://www.linkedin.com/in/kalasha-peer-5ba84a411/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/kalashapeer">
+      <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
